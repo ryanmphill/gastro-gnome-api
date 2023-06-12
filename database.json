@@ -1,0 +1,863 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Dion Stoade",
+      "email": "dstoade0@cornell.edu",
+      "isStaff": false
+    },
+    {
+      "id": 2,
+      "name": "Windy Thorneloe",
+      "email": "wthorneloe1@usa.gov",
+      "isStaff": false
+    },
+    {
+      "id": 3,
+      "name": "Hillie Phillpotts",
+      "email": "hphillpotts2@rakuten.co.jp",
+      "isStaff": false
+    },
+    {
+      "id": 4,
+      "name": "Helenelizabeth Passfield",
+      "email": "hpassfield7@netvibes.com",
+      "isStaff": true
+    }
+  ],
+  "recipeCards": [
+    {
+        "id": 1,
+        "title": "Hearty Potato Leek Soup",
+        "genreId": 5,
+        "description": "Here is a hearty potato soup you can have ready in less than an hour",
+        "prepInstructions": "Chop up the celery, onion, and garlic. Wash leeks thoroughly and then slice into thin medallions. Peel potatoes and set to the side.",
+        "cookInstructions": "In a large pot, saute celery, onion, and leeks until slightly caramelized and tender. Add garlic to pot after a couple of minutes. Next, add potatoes and cook for an additional 5 minutes, stirring frequently. Add broth and then bring to a boil. Let simmer for 16 minutes. Add sour cream and cheese, mix together, and serve.",
+        "prepTime": 15,
+        "cookTime": 25,
+        "servingSize": 4,
+        "userId": 3,
+        "note": "To make soup vegan friendly, substitute non-dairy yogurt for sour cream",
+        "timestamp": 1673566896,
+        "image": "https://images.unsplash.com/photo-1642463002619-f6e168821c56?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=416&q=80"
+    },
+    {
+        "id": 2,
+        "title": "Simple Baked Sweet Potato",
+        "genreId": 4,
+        "description": "Here is an easy side dish to take your meal to the next level, or to just enjoy as a decadent snack",
+        "prepInstructions": "Preheat oven to 425°F. Wash potato and pierce sides with fork. Place on baking sheet.",
+        "cookInstructions": "Roast 40 to 50 minutes, or until fork tender. Don't wrap in foil.",
+        "prepTime": 15,
+        "cookTime": 25,
+        "servingSize": 4,
+        "userId": 3,
+        "note": "Add butter to make potato more creamy and whatever seasonings desired. For a more moist sweet potato, use garnet or jewel varieties. For a more starchy potato, go for a light fleshed variety such as a Hannah, or a purple fleshed variety.",
+        "timestamp": 1673568696,
+        "image": "https://images.unsplash.com/photo-1570723735746-c9bd51bd7c40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80"
+    }
+  ],
+  "genres": [
+    {
+        "id": 1,
+        "name": "Breakfast"
+    },
+    {
+        "id": 2,
+        "name": "Appetizers and Snacks"
+    },
+    {
+        "id": 3,
+        "name": "Main Course"
+    },
+    {
+        "id": 4,
+        "name": "Side Dishes"
+    },
+    {
+        "id": 5,
+        "name": "Soups and Stews"
+    },
+    {
+        "id": 6,
+        "name": "Desserts"
+    },
+    {
+        "id": 7,
+        "name": "Breads and Baked Goods"
+    },
+    {
+        "id": 8,
+        "name": "Beverages"
+    }
+  ],
+  "ingredients": [
+    {
+        "id": 1,
+        "name": "sweet potato"
+    },
+    {
+        "id": 2,
+        "name": "russet potato"
+    },
+    {
+        "id": 3,
+        "name": "leek"
+    },
+    {
+        "id": 4,
+        "name": "sour cream"
+    },
+    {
+        "id": 5,
+        "name": "celery"
+    },
+    {
+        "id": 6,
+        "name": "vegetable broth"
+    },
+    {
+        "id": 7,
+        "name": "yellow onion"
+    },
+    {
+        "id": 8,
+        "name": "garlic"
+    },
+    {
+        "id": 9,
+        "name": "parmesan cheese"
+    },
+    {
+        "id": 10,
+        "name": "cheddar cheese"
+    }
+  ],
+  "ingredientsInRecipes": [
+    {
+        "id": 1,
+        "ingredientId": 1,
+        "recipeCardId": 2,
+        "quantity": 1,
+        "quantityUnit": ""
+    },
+    {
+        "id": 2,
+        "ingredientId": 6,
+        "recipeCardId": 1,
+        "quantity": 4,
+        "quantityUnit": "cups"
+    },
+    {
+        "id": 3,
+        "ingredientId": 2,
+        "recipeCardId": 1,
+        "quantity": 4,
+        "quantityUnit": ""
+    },
+    {
+        "id": 4,
+        "ingredientId": 5,
+        "recipeCardId": 1,
+        "quantity": 3,
+        "quantityUnit": "stalks"
+    },
+    {
+        "id": 5,
+        "ingredientId": 7,
+        "recipeCardId": 1,
+        "quantity": 0.5,
+        "quantityUnit": ""
+    },
+    {
+        "id": 6,
+        "ingredientId": 3,
+        "recipeCardId": 1,
+        "quantity": 2,
+        "quantityUnit": ""
+    },
+    {
+        "id": 7,
+        "ingredientId": 8,
+        "recipeCardId": 1,
+        "quantity": 2,
+        "quantityUnit": "cloves"
+    },
+    {
+        "id": 8,
+        "ingredientId": 4,
+        "recipeCardId": 1,
+        "quantity": 0.5,
+        "quantityUnit": "cup"
+    },
+    {
+        "id": 9,
+        "ingredientId": 9,
+        "recipeCardId": 1,
+        "quantity": 0.25,
+        "quantityUnit": "cup"
+    },
+    {
+        "id": 10,
+        "ingredientId": 10,
+        "recipeCardId": 1,
+        "quantity": 0.5,
+        "quantityUnit": "cup"
+    }
+  ],
+  "categoriesOfRecipes": [
+    {
+        "id": 1,
+        "recipeCardId": 1,
+        "categoryId": 1
+    },
+    {
+        "id": 2,
+        "recipeCardId": 1,
+        "categoryId": 5
+    },
+    {
+        "id": 3,
+        "recipeCardId": 1,
+        "categoryId": 31
+    },
+    {
+        "id": 4,
+        "recipeCardId": 1,
+        "categoryId": 54
+    },
+    {
+        "id": 5,
+        "recipeCardId": 1,
+        "categoryId": 80
+    },
+    {
+        "id": 6,
+        "recipeCardId": 1,
+        "categoryId": 119
+    },
+    {
+        "id": 7,
+        "recipeCardId": 1,
+        "categoryId": 120
+    },
+    {
+        "id": 8,
+        "recipeCardId": 1,
+        "categoryId": 122
+    },
+    {
+        "id": 9,
+        "recipeCardId": 2,
+        "categoryId": 1
+    },
+    {
+        "id": 10,
+        "recipeCardId": 2,
+        "categoryId": 123
+    },
+    {
+        "id": 11,
+        "recipeCardId": 2,
+        "categoryId": 47
+    }
+  ],
+  "favorites": [
+    {
+        "id": 1,
+        "userId": 1,
+        "recipeCardId": 2
+    }
+  ],
+  "comments": [
+    {
+        "id": 1,
+        "userId": 1,
+        "recipeCardId": 2,
+        "message": "Wow, this looks really great"
+    }
+  ],
+  "categories": [
+    {
+        "id": 1,
+        "name": "Vegetarian",
+        "categoryType": "diet"
+      },
+      {
+        "id": 2,
+        "name": "Vegan",
+        "categoryType": "diet"
+      },
+      {
+        "id": 3,
+        "name": "Gluten-free",
+        "categoryType": "diet"
+      },
+      {
+        "id": 4,
+        "name": "Dairy-free",
+        "categoryType": "diet"
+      },
+      {
+        "id": 5,
+        "name": "Nut-free",
+        "categoryType": "diet"
+      },
+      {
+        "id": 6,
+        "name": "Kosher",
+        "categoryType": "diet"
+      },
+      {
+        "id": 7,
+        "name": "Halal",
+        "categoryType": "diet"
+      },
+      {
+        "id": 8,
+        "name": "Pescatarian",
+        "categoryType": "diet"
+      },
+      {
+        "id": 9,
+        "name": "Lacto-vegetarian",
+        "categoryType": "diet"
+      },
+      {
+        "id": 10,
+        "name": "Ovo-vegetarian",
+        "categoryType": "diet"
+      },
+      {
+        "id": 11,
+        "name": "Paleo",
+        "categoryType": "diet"
+      },
+      {
+        "id": 12,
+        "name": "Low-carb",
+        "categoryType": "diet"
+      },
+      {
+        "id": 13,
+        "name": "Low-fat",
+        "categoryType": "diet"
+      },
+      {
+        "id": 14,
+        "name": "Sugar-free",
+        "categoryType": "diet"
+      },
+      {
+        "id": 15,
+        "name": "Raw",
+        "categoryType": "diet"
+      },
+      {
+        "id": 16,
+        "name": "FODMAP-free",
+        "categoryType": "diet"
+      },
+      {
+        "id": 17,
+        "name": "Organic",
+        "categoryType": "diet"
+      },
+      {
+        "id": 18,
+        "name": "Locally-sourced",
+        "categoryType": "diet"
+      },
+      {
+        "id": 19,
+        "name": "Grain-free",
+        "categoryType": "diet"
+      },
+      {
+        "id": 20,
+        "name": "Soy-free",
+        "categoryType": "diet"
+      },
+      {
+        "id": 21,
+        "name": "Italian",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 22,
+        "name": "Chinese",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 23,
+        "name": "Mexican",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 24,
+        "name": "Indian",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 25,
+        "name": "Japanese",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 26,
+        "name": "Thai",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 27,
+        "name": "Greek",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 28,
+        "name": "French",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 29,
+        "name": "Spanish",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 30,
+        "name": "Mediterranean",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 31,
+        "name": "American",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 32,
+        "name": "Korean",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 33,
+        "name": "Vietnamese",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 34,
+        "name": "Lebanese",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 35,
+        "name": "Brazilian",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 36,
+        "name": "Turkish",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 37,
+        "name": "Russian",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 38,
+        "name": "Moroccan",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 39,
+        "name": "Peruvian",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 40,
+        "name": "Caribbean",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 41,
+        "name": "Ethiopian",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 42,
+        "name": "Thai",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 43,
+        "name": "Indonesian",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 44,
+        "name": "Middle Eastern",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 45,
+        "name": "South African",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 46,
+        "name": "Grilling",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 47,
+        "name": "Baking",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 48,
+        "name": "Roasting",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 49,
+        "name": "Frying",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 50,
+        "name": "Sautéing",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 51,
+        "name": "Steaming",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 52,
+        "name": "Boiling",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 53,
+        "name": "Poaching",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 54,
+        "name": "Simmering",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 55,
+        "name": "Broiling",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 56,
+        "name": "Smoking",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 57,
+        "name": "Stir-frying",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 58,
+        "name": "Braising",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 59,
+        "name": "Griddling",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 60,
+        "name": "Blanching",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 61,
+        "name": "Deep-frying",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 62,
+        "name": "Sous vide",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 63,
+        "name": "Caramelizing",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 64,
+        "name": "Grating",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 65,
+        "name": "Blending",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 66,
+        "name": "Stewing",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 69,
+        "name": "Flambéing",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 71,
+        "name": "Pressure cooking",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 74,
+        "name": "Infusing",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 75,
+        "name": "Marinating",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 76,
+        "name": "Searing",
+        "categoryType": "cooking method"
+      },
+      {
+        "id": 77,
+        "name": "Pasta",
+        "categoryType": "general"
+      },
+      {
+        "id": 78,
+        "name": "Seafood",
+        "categoryType": "general"
+      },
+      {
+        "id": 79,
+        "name": "Salad",
+        "categoryType": "general"
+      },
+      {
+        "id": 80,
+        "name": "Soup",
+        "categoryType": "general"
+      },
+      {
+        "id": 81,
+        "name": "Sandwich",
+        "categoryType": "general"
+      },
+      {
+        "id": 82,
+        "name": "Pizza",
+        "categoryType": "general"
+      },
+      {
+        "id": 83,
+        "name": "Burger",
+        "categoryType": "general"
+      },
+      {
+        "id": 84,
+        "name": "Stir-fry",
+        "categoryType": "general"
+      },
+      {
+        "id": 85,
+        "name": "Curry",
+        "categoryType": "general"
+      },
+      {
+        "id": 86,
+        "name": "Roast",
+        "categoryType": "general"
+      },
+      {
+        "id": 87,
+        "name": "Grilled",
+        "categoryType": "general"
+      },
+      {
+        "id": 88,
+        "name": "Taco",
+        "categoryType": "general"
+      },
+      {
+        "id": 89,
+        "name": "Sushi",
+        "categoryType": "general"
+      },
+      {
+        "id": 90,
+        "name": "Wrap",
+        "categoryType": "general"
+      },
+      {
+        "id": 91,
+        "name": "Noodle",
+        "categoryType": "general"
+      },
+      {
+        "id": 92,
+        "name": "Rice",
+        "categoryType": "general"
+      },
+      {
+        "id": 99,
+        "name": "Gratin",
+        "categoryType": "general"
+      },
+      {
+        "id": 100,
+        "name": "Stew",
+        "categoryType": "general"
+      },
+      {
+        "id": 101,
+        "name": "Frittata",
+        "categoryType": "general"
+      },
+      {
+        "id": 102,
+        "name": "Sauce",
+        "categoryType": "general"
+      },
+      {
+        "id": 104,
+        "name": "Goulash",
+        "categoryType": "general"
+      },
+      {
+        "id": 105,
+        "name": "Sashimi",
+        "categoryType": "general"
+      },
+      {
+        "id": 107,
+        "name": "Fajitas",
+        "categoryType": "general"
+      },
+      {
+        "id": 108,
+        "name": "Quiche",
+        "categoryType": "general"
+      },
+      {
+        "id": 109,
+        "name": "Pancakes",
+        "categoryType": "general"
+      },
+      {
+        "id": 110,
+        "name": "Sweet",
+        "categoryType": "flavor"
+      },
+      {
+        "id": 111,
+        "name": "Savory",
+        "categoryType": "flavor"
+      },
+      {
+        "id": 112,
+        "name": "Spicy",
+        "categoryType": "flavor"
+      },
+      {
+        "id": 113,
+        "name": "Sour",
+        "categoryType": "flavor"
+      },
+      {
+        "id": 114,
+        "name": "Bitter",
+        "categoryType": "flavor"
+      },
+      {
+        "id": 115,
+        "name": "Umami",
+        "categoryType": "flavor"
+      },
+      {
+        "id": 116,
+        "name": "Tangy",
+        "categoryType": "flavor"
+      },
+      {
+        "id": 117,
+        "name": "Creamy",
+        "categoryType": "flavor"
+      },
+      {
+        "id": 118,
+        "name": "Smoky",
+        "categoryType": "flavor"
+      },
+      {
+        "id": 119,
+        "name": "Herbaceous",
+        "categoryType": "flavor"
+      },
+      {
+        "id": 120,
+        "name": "European",
+        "categoryType": "cuisine"
+      },
+      {
+        "id": 121,
+        "name": "Light",
+        "categoryType": "quality"
+      },
+      {
+        "id": 122,
+        "name": "Comfort",
+        "categoryType": "quality"
+      },
+      {
+        "id": 123,
+        "name": "Hearty",
+        "categoryType": "quality"
+      },
+      {
+        "id": 124,
+        "name": "Rich",
+        "categoryType": "quality"
+      },
+      {
+        "id": 125,
+        "name": "Delicate",
+        "categoryType": "quality"
+      },
+      {
+        "id": 127,
+        "name": "Fresh",
+        "categoryType": "quality"
+      },
+      {
+        "id": 128,
+        "name": "Crispy",
+        "categoryType": "quality"
+      },
+      {
+        "id": 129,
+        "name": "Satisfying",
+        "categoryType": "quality"
+      },
+      {
+        "id": 130,
+        "name": "Elegant",
+        "categoryType": "quality"
+      }
+  ],
+  "follows": []
+}
