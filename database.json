@@ -1415,461 +1415,461 @@
       "id": 1,
       "ingredientId": 1,
       "recipeCardId": 2,
-      "quantity": 1,
+      "quantity": "1",
       "quantityUnit": ""
     },
     {
       "id": 2,
       "ingredientId": 6,
       "recipeCardId": 1,
-      "quantity": 4,
+      "quantity": "4",
       "quantityUnit": "cups"
     },
     {
       "id": 3,
       "ingredientId": 2,
       "recipeCardId": 1,
-      "quantity": 4,
+      "quantity": "4",
       "quantityUnit": ""
     },
     {
       "id": 4,
       "ingredientId": 5,
       "recipeCardId": 1,
-      "quantity": 3,
+      "quantity": "3",
       "quantityUnit": "stalks"
     },
     {
       "id": 5,
       "ingredientId": 7,
       "recipeCardId": 1,
-      "quantity": 0.5,
+      "quantity": "1/2",
       "quantityUnit": ""
     },
     {
       "id": 6,
       "ingredientId": 3,
       "recipeCardId": 1,
-      "quantity": 2,
+      "quantity": "2",
       "quantityUnit": ""
     },
     {
       "id": 7,
       "ingredientId": 8,
       "recipeCardId": 1,
-      "quantity": 2,
+      "quantity": "2",
       "quantityUnit": "cloves"
     },
     {
       "id": 8,
       "ingredientId": 4,
       "recipeCardId": 1,
-      "quantity": 0.5,
+      "quantity": "1/2",
       "quantityUnit": "cup"
     },
     {
       "id": 9,
       "ingredientId": 9,
       "recipeCardId": 1,
-      "quantity": 0.25,
+      "quantity": "1/4",
       "quantityUnit": "cup"
     },
     {
       "id": 10,
       "ingredientId": 10,
       "recipeCardId": 1,
-      "quantity": 0.5,
+      "quantity": "1/2",
       "quantityUnit": "cup"
     },
     {
       "ingredientId": 70,
       "recipeCardId": 3,
-      "quantity": 3,
+      "quantity": "3",
       "quantityUnit": "",
       "id": 11
     },
     {
       "ingredientId": 213,
       "recipeCardId": 3,
-      "quantity": 0.25,
+      "quantity": "1/4",
       "quantityUnit": "tsp",
       "id": 12
     },
     {
       "ingredientId": 290,
       "recipeCardId": 3,
-      "quantity": 1,
+      "quantity": "1",
       "quantityUnit": "cup",
       "id": 13
     },
     {
       "ingredientId": 291,
       "recipeCardId": 3,
-      "quantity": 1,
+      "quantity": "1",
       "quantityUnit": "",
       "id": 14
     },
     {
       "ingredientId": 292,
       "recipeCardId": 3,
-      "quantity": 0.66,
+      "quantity": "2/3",
       "quantityUnit": "cups",
       "id": 15
     },
     {
       "ingredientId": 293,
       "recipeCardId": 3,
-      "quantity": 2,
+      "quantity": "2",
       "quantityUnit": "tbsp",
       "id": 16
     },
     {
       "ingredientId": 149,
       "recipeCardId": 3,
-      "quantity": 0.5,
+      "quantity": "1/2",
       "quantityUnit": "cup",
       "id": 17
     },
     {
       "ingredientId": 42,
       "recipeCardId": 3,
-      "quantity": 0.5,
+      "quantity": "1/2",
       "quantityUnit": "cups",
       "id": 18
     },
     {
       "ingredientId": 288,
       "recipeCardId": 3,
-      "quantity": 3,
+      "quantity": "1/2",
       "quantityUnit": "cups",
       "id": 19
     },
     {
       "ingredientId": 214,
       "recipeCardId": 3,
-      "quantity": 1,
+      "quantity": "1",
       "quantityUnit": "tbsp",
       "id": 20
     },
     {
       "ingredientId": 289,
       "recipeCardId": 3,
-      "quantity": 0.5,
+      "quantity": "1/2",
       "quantityUnit": "tsp",
       "id": 21
     },
     {
       "ingredientId": 291,
       "recipeCardId": 4,
-      "quantity": 6,
+      "quantity": "6",
       "quantityUnit": "",
       "id": 22
     },
     {
       "ingredientId": 254,
       "recipeCardId": 4,
-      "quantity": 0.25,
+      "quantity": "1/4",
       "quantityUnit": "tsp",
       "id": 23
     },
     {
       "ingredientId": 37,
       "recipeCardId": 4,
-      "quantity": 2,
+      "quantity": "2",
       "quantityUnit": "tbsp",
       "id": 24
     },
     {
       "ingredientId": 295,
       "recipeCardId": 4,
-      "quantity": 1,
+      "quantity": "1",
       "quantityUnit": "",
       "id": 25
     },
     {
       "ingredientId": 13,
       "recipeCardId": 4,
-      "quantity": 2,
+      "quantity": "2",
       "quantityUnit": "",
       "id": 26
     },
     {
       "ingredientId": 17,
       "recipeCardId": 4,
-      "quantity": 2,
+      "quantity": "2",
       "quantityUnit": "cups",
       "id": 27
     },
     {
       "ingredientId": 194,
       "recipeCardId": 4,
-      "quantity": 0.25,
+      "quantity": "1/4",
       "quantityUnit": "cups",
       "id": 28
     },
     {
       "ingredientId": 118,
       "recipeCardId": 4,
-      "quantity": 0.25,
+      "quantity": "1/4",
       "quantityUnit": "cup",
       "id": 29
     },
     {
       "ingredientId": 8,
       "recipeCardId": 4,
-      "quantity": 2,
+      "quantity": "2",
       "quantityUnit": "cloves",
       "id": 30
     },
     {
       "ingredientId": 294,
       "recipeCardId": 4,
-      "quantity": 0.25,
+      "quantity": "1/4",
       "quantityUnit": "tsp",
       "id": 31
     },
     {
       "ingredientId": 39,
       "recipeCardId": 5,
-      "quantity": 2,
+      "quantity": "2",
       "quantityUnit": "tbsp",
       "id": 32
     },
     {
       "ingredientId": 297,
       "recipeCardId": 5,
-      "quantity": 2,
+      "quantity": "2",
       "quantityUnit": "",
       "id": 33
     },
     {
       "ingredientId": 211,
       "recipeCardId": 5,
-      "quantity": 0.25,
+      "quantity": "1/4",
       "quantityUnit": "tsp",
       "id": 34
     },
     {
       "ingredientId": 288,
       "recipeCardId": 5,
-      "quantity": 2,
+      "quantity": "2",
       "quantityUnit": "tbsp",
       "id": 35
     },
     {
       "ingredientId": 40,
       "recipeCardId": 5,
-      "quantity": 0.5,
+      "quantity": "1/4",
       "quantityUnit": "tsp",
       "id": 36
     },
     {
       "ingredientId": 254,
       "recipeCardId": 5,
-      "quantity": 0.5,
+      "quantity": "1/2",
       "quantityUnit": "tsp",
       "id": 37
     },
     {
       "ingredientId": 283,
       "recipeCardId": 5,
-      "quantity": 0.75,
+      "quantity": "3/4",
       "quantityUnit": "cup",
       "id": 38
     },
     {
       "ingredientId": 296,
       "recipeCardId": 5,
-      "quantity": 4,
+      "quantity": "4",
       "quantityUnit": "",
       "id": 39
     },
     {
       "ingredientId": 298,
       "recipeCardId": 6,
-      "quantity": 2,
+      "quantity": "2",
       "quantityUnit": "cups",
       "id": 40
     },
     {
       "ingredientId": 15,
       "recipeCardId": 6,
-      "quantity": 1,
+      "quantity": "1",
       "quantityUnit": "bunch",
       "id": 41
     },
     {
       "ingredientId": 26,
       "recipeCardId": 6,
-      "quantity": 1,
+      "quantity": "1",
       "quantityUnit": "tsp",
       "id": 42
     },
     {
       "ingredientId": 31,
       "recipeCardId": 6,
-      "quantity": 0.25,
+      "quantity": "1/4",
       "quantityUnit": "tsp",
       "id": 43
     },
     {
       "ingredientId": 17,
       "recipeCardId": 6,
-      "quantity": 5,
+      "quantity": "5",
       "quantityUnit": "oz",
       "id": 44
     },
     {
       "ingredientId": 301,
       "recipeCardId": 6,
-      "quantity": 1.5,
+      "quantity": "1 1/2",
       "quantityUnit": "cups",
       "id": 45
     },
     {
       "ingredientId": 200,
       "recipeCardId": 6,
-      "quantity": 1,
+      "quantity": "1",
       "quantityUnit": "cup",
       "id": 46
     },
     {
       "ingredientId": 40,
       "recipeCardId": 6,
-      "quantity": 0.5,
+      "quantity": "1/2",
       "quantityUnit": "tsp",
       "id": 47
     },
     {
       "ingredientId": 254,
       "recipeCardId": 6,
-      "quantity": 0.5,
+      "quantity": "1/2",
       "quantityUnit": "tsp",
       "id": 48
     },
     {
       "ingredientId": 37,
       "recipeCardId": 6,
-      "quantity": 2,
+      "quantity": "2",
       "quantityUnit": "tbsp",
       "id": 49
     },
     {
       "ingredientId": 302,
       "recipeCardId": 6,
-      "quantity": 8,
+      "quantity": "8",
       "quantityUnit": "",
       "id": 50
     },
     {
       "ingredientId": 303,
       "recipeCardId": 6,
-      "quantity": 0.5,
+      "quantity": "1/2",
       "quantityUnit": "cups",
       "id": 51
     },
     {
       "ingredientId": 299,
       "recipeCardId": 6,
-      "quantity": 1,
+      "quantity": "1",
       "quantityUnit": "cup",
       "id": 52
     },
     {
       "ingredientId": 300,
       "recipeCardId": 6,
-      "quantity": 0.75,
+      "quantity": "3/4",
       "quantityUnit": "cup",
       "id": 53
     },
     {
       "ingredientId": 7,
       "recipeCardId": 7,
-      "quantity": 1,
+      "quantity": "1",
       "quantityUnit": "",
       "id": 54
     },
     {
       "ingredientId": 26,
       "recipeCardId": 7,
-      "quantity": 1,
+      "quantity": "1",
       "quantityUnit": "teaspoon",
       "id": 55
     },
     {
       "ingredientId": 40,
       "recipeCardId": 7,
-      "quantity": 1,
+      "quantity": "1",
       "quantityUnit": "teaspoon",
       "id": 56
     },
     {
       "ingredientId": 305,
       "recipeCardId": 7,
-      "quantity": 4,
+      "quantity": "4",
       "quantityUnit": "cups",
       "id": 57
     },
     {
       "ingredientId": 282,
       "recipeCardId": 7,
-      "quantity": 1,
+      "quantity": "1",
       "quantityUnit": "cup",
       "id": 58
     },
     {
       "ingredientId": 47,
       "recipeCardId": 7,
-      "quantity": 1,
+      "quantity": "1",
       "quantityUnit": "cup",
       "id": 59
     },
     {
       "ingredientId": 306,
       "recipeCardId": 7,
-      "quantity": 14.5,
+      "quantity": "14 1/2",
       "quantityUnit": "oz",
       "id": 60
     },
     {
       "ingredientId": 278,
       "recipeCardId": 7,
-      "quantity": 4,
+      "quantity": "4",
       "quantityUnit": "cups",
       "id": 61
     },
     {
       "ingredientId": 307,
       "recipeCardId": 7,
-      "quantity": 0.25,
+      "quantity": "1/4",
       "quantityUnit": "cups",
       "id": 62
     },
     {
       "ingredientId": 304,
       "recipeCardId": 7,
-      "quantity": 3,
+      "quantity": "3",
       "quantityUnit": "teaspoons",
       "id": 63
     },
     {
       "ingredientId": 88,
       "recipeCardId": 7,
-      "quantity": 2,
+      "quantity": "2",
       "quantityUnit": "cups",
       "id": 64
     },
     {
       "ingredientId": 21,
       "recipeCardId": 7,
-      "quantity": 1,
+      "quantity": "1",
       "quantityUnit": "teaspoon",
       "id": 65
     },
     {
       "ingredientId": 22,
       "recipeCardId": 7,
-      "quantity": 1,
+      "quantity": "1",
       "quantityUnit": "teaspoon",
       "id": 66
     }
