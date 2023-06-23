@@ -1408,6 +1408,18 @@
     {
       "name": "ground beef",
       "id": 310
+    },
+    {
+      "name": "Italian sausage",
+      "id": 311
+    },
+    {
+      "name": "tomato paste",
+      "id": 312
+    },
+    {
+      "name": "Italian seasoning",
+      "id": 313
     }
   ],
   "ingredientsInRecipes": [
@@ -2063,11 +2075,6 @@
       "id": 7
     },
     {
-      "userId": 4,
-      "recipeCardId": 5,
-      "id": 8
-    },
-    {
       "userId": 2,
       "recipeCardId": 2,
       "id": 10
@@ -2101,6 +2108,11 @@
       "userId": 5,
       "recipeCardId": 7,
       "id": 16
+    },
+    {
+      "userId": 4,
+      "recipeCardId": 5,
+      "id": 17
     }
   ],
   "comments": [
