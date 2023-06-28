@@ -2056,6 +2056,11 @@
       "recipeCardId": 7,
       "categoryId": 138,
       "id": 34
+    },
+    {
+      "recipeCardId": 6,
+      "categoryId": 1,
+      "id": 35
     }
   ],
   "favorites": [
@@ -2113,6 +2118,11 @@
       "userId": 4,
       "recipeCardId": 5,
       "id": 17
+    },
+    {
+      "userId": 4,
+      "recipeCardId": 3,
+      "id": 18
     }
   ],
   "comments": [
