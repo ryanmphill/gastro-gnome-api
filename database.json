@@ -29,6 +29,24 @@
       "name": "Samwise Gamgee",
       "email": "swisegamgee@shire.net",
       "isStaff": true
+    },
+    {
+      "email": "link@hyrulechampions.net",
+      "name": "Link",
+      "isStaff": false,
+      "id": 6
+    },
+    {
+      "email": "zelda@hyrulekingdom.gov",
+      "name": "Zelda",
+      "isStaff": true,
+      "id": 7
+    },
+    {
+      "email": "kenniisawesome@kenniisawesome.com",
+      "name": "Kenni",
+      "isStaff": true,
+      "id": 8
     }
   ],
   "recipeCards": [
@@ -136,6 +154,66 @@
       "timestamp": 0,
       "image": "https://images.unsplash.com/photo-1596797038530-2c107229654b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80",
       "id": 7
+    },
+    {
+      "title": "Hearty Pizza",
+      "genreId": 3,
+      "description": "Absolutely mouth watering Italian cuisine with melted mozzarella cheese on top of a marinara base. Basil leaves and olives to garnish. :) ",
+      "prepInstructions": "do a happy dance ",
+      "cookInstructions": "put in hot oven until done",
+      "prepTime": 12,
+      "cookTime": 18,
+      "servingSize": 3,
+      "userId": 4,
+      "note": "have a great time and don't forget the LOVE! <3",
+      "timestamp": 0,
+      "image": "https://images.unsplash.com/photo-1593560708920-61dd98c46a4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80",
+      "id": 8
+    },
+    {
+      "title": "Luncheon Lasagna",
+      "genreId": 3,
+      "description": "Tender sheets of pasta, a creamy ricotta cheese filling, and a rich meaty tomato sauce are all topped with more cheese and baked until browned and bubbly.",
+      "prepInstructions": "Preheat the oven to 350°F. In a large pot of salted water, boil lasagna noodles until al dente according to package directions. Drain, rinse under cold water, and set aside.",
+      "cookInstructions": "In a large skillet or Dutch oven, brown beef, sausage, onion, and garlic over medium-high heat until no pink remains. Drain any fat.\nStir in the pasta sauce, tomato paste, Italian seasoning, ½ teaspoon of salt, and ¼ teaspoon of black pepper. Simmer uncovered over medium heat for 5 minutes or until thickened.\nIn a separate bowl, combine 1 ½ cups mozzarella, ¼ cup parmesan cheese, ricotta, parsley, egg, and ¼ teaspoon salt.\nSpread 1 cup of the meat sauce in a 9×13 pan or casserole dish. Top it with 3 lasagna noodles. Layer with ⅓ of the ricotta cheese mixture and 1 cup of meat sauce. Repeat twice more. Finish with 3 noodles topped with remaining sauce.\nCover with foil and bake for 45 minutes. \nRemove the foil and sprinkle with the remaining 2 ½ cups mozzarella cheese and ¼ cup parmesan cheese. Bake for an additional 15 minutes or until browned and bubbly. Broil for 2-3 minutes if desired.\nRest for at least 15 minutes before cutting.",
+      "prepTime": 30,
+      "cookTime": 60,
+      "servingSize": 12,
+      "userId": 4,
+      "note": "Use fresh lasagna sheets found in the deli area and skip the boiling step! Fresh lasagna doesn’t need to be boiled first.",
+      "timestamp": 0,
+      "image": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGFzYWduYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+      "id": 9
+    },
+    {
+      "title": "Veggie Pizza",
+      "genreId": 3,
+      "description": "This vegetarian pizza recipe will delight vegetarians and carnivores alike. It’s fresh and full of flavor, featuring cherry tomatoes, artichoke, bell pepper, olives, red onion and some hidden (and optional) baby spinach. You’ll find a base of rich tomato sauce and golden, bubbling mozzarella underneath, of course.",
+      "prepInstructions": "Preheat the oven to 500 degrees Fahrenheit with a rack in the upper third of the oven. If you’re using a baking stone or baking steel, place it on the upper rack.\n\nSpread pizza sauce evenly over the two pizzas, leaving about 1 inch bare around the edges. Evenly distribute the spinach on top of the sauce, followed by the cheese.\n\nTop the pizzas with artichoke, bell pepper, red onion, tomatoes, olives and almonds (if using).",
+      "cookInstructions": "Bake pizzas individually on the top rack until the crust is golden and the cheese is golden and bubbly, about 10 to 12 minutes (or significantly less, if you’re using a baking stone/steel—keep an eye on it).\n\nTransfer pizzas to a cutting board and sprinkle with with fresh basil, red pepper flakes and Parmesan, if using. Slice and serve! Leftover pizza keeps well in the refrigerator for 4 days, or for several months in the freezer.",
+      "prepTime": 25,
+      "cookTime": 20,
+      "servingSize": 6,
+      "userId": 4,
+      "note": "MAKE IT NUT FREE: Omit the almonds.\n\nCHANGE IT UP: On top of the mozzarella, use any combination of the suggested toppings (up to 3 cups t0tal). The spinach and almonds are not essential.",
+      "timestamp": 0,
+      "image": "https://images.unsplash.com/photo-1618946440416-ef676a06a913?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+      "id": 10
+    },
+    {
+      "title": "Superfood Salmon Salad",
+      "genreId": 3,
+      "description": "This salmon salad is loaded with roasted sweet potato croutons, avocado, pickled onions and dressed in a light lemon vinaigrette! It’s an easy go-to meal you’ll love having as part of your weekly rotation.",
+      "prepInstructions": "Make pickled red onions and the lemon vinaigrette dressing.\n\nSeason salmon filets with sea salt and ground pepper. Heat oil in a large skillet (a cast-iron works great) over medium-high heat.",
+      "cookInstructions": "Place salmon in pan, skin side up for about 4 minutes or until the flesh is golden brown. Turn and cook until salmon is medium-rare, about 4 more minutes.\n\nIn a salad bowl, toss greens with sweet potato croutons, pickled red onions, feta and pepitas.\n\nDivide between 2 plates. Top salad with salmon and avocado. Then drizzle with the lemon vinaigrette. Season with additional salt and pepper, to taste.",
+      "prepTime": 15,
+      "cookTime": 40,
+      "servingSize": 3,
+      "userId": 6,
+      "note": "Feel free to switch up your mix-ins for this superfood salad… I often do! Sometimes I change up the veggies based on what I have on hand. Feel free to get creative and make this your own!",
+      "timestamp": 0,
+      "image": "https://images.unsplash.com/photo-1508170754725-6e9a5cfbcabf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "id": 11
     }
   ],
   "genres": [
@@ -1420,6 +1498,54 @@
     {
       "name": "Italian seasoning",
       "id": 313
+    },
+    {
+      "name": "pizza dough",
+      "id": 314
+    },
+    {
+      "name": "olives",
+      "id": 315
+    },
+    {
+      "name": "pizza sauce",
+      "id": 316
+    },
+    {
+      "name": "sliced almonds",
+      "id": 317
+    },
+    {
+      "name": "cherry tomatoes",
+      "id": 318
+    },
+    {
+      "name": "Kalamata olives",
+      "id": 319
+    },
+    {
+      "name": "romaine lettuce",
+      "id": 320
+    },
+    {
+      "name": "pickled red onions",
+      "id": 321
+    },
+    {
+      "name": "pepitas",
+      "id": 322
+    },
+    {
+      "name": "lemon vinaigrette",
+      "id": 323
+    },
+    {
+      "name": "green onion",
+      "id": 324
+    },
+    {
+      "name": "bacon",
+      "id": 325
     }
   ],
   "ingredientsInRecipes": [
@@ -1884,6 +2010,251 @@
       "quantity": "1",
       "quantityUnit": "teaspoon",
       "id": 66
+    },
+    {
+      "ingredientId": 314,
+      "recipeCardId": 8,
+      "quantity": "1",
+      "quantityUnit": "pounds",
+      "id": 67
+    },
+    {
+      "ingredientId": 309,
+      "recipeCardId": 8,
+      "quantity": "1",
+      "quantityUnit": "cup",
+      "id": 68
+    },
+    {
+      "ingredientId": 195,
+      "recipeCardId": 8,
+      "quantity": "2",
+      "quantityUnit": "cup",
+      "id": 69
+    },
+    {
+      "ingredientId": 21,
+      "recipeCardId": 8,
+      "quantity": "6",
+      "quantityUnit": "leaves",
+      "id": 70
+    },
+    {
+      "ingredientId": 315,
+      "recipeCardId": 8,
+      "quantity": "6",
+      "quantityUnit": "oz",
+      "id": 71
+    },
+    {
+      "ingredientId": 84,
+      "recipeCardId": 8,
+      "quantity": "6",
+      "quantityUnit": "oz",
+      "id": 72
+    },
+    {
+      "ingredientId": 308,
+      "recipeCardId": 9,
+      "quantity": "12",
+      "quantityUnit": "cups",
+      "id": 73
+    },
+    {
+      "ingredientId": 195,
+      "recipeCardId": 9,
+      "quantity": "4",
+      "quantityUnit": "cups",
+      "id": 74
+    },
+    {
+      "ingredientId": 9,
+      "recipeCardId": 9,
+      "quantity": "1/2",
+      "quantityUnit": "cups",
+      "id": 75
+    },
+    {
+      "ingredientId": 310,
+      "recipeCardId": 9,
+      "quantity": "1/2",
+      "quantityUnit": "lb",
+      "id": 76
+    },
+    {
+      "ingredientId": 7,
+      "recipeCardId": 9,
+      "quantity": "1",
+      "quantityUnit": "",
+      "id": 78
+    },
+    {
+      "ingredientId": 8,
+      "recipeCardId": 9,
+      "quantity": "2",
+      "quantityUnit": "cloves",
+      "id": 79
+    },
+    {
+      "ingredientId": 309,
+      "recipeCardId": 9,
+      "quantity": "36",
+      "quantityUnit": "oz",
+      "id": 80
+    },
+    {
+      "ingredientId": 312,
+      "recipeCardId": 9,
+      "quantity": "2",
+      "quantityUnit": "tbsp",
+      "id": 81
+    },
+    {
+      "ingredientId": 313,
+      "recipeCardId": 9,
+      "quantity": "2",
+      "quantityUnit": "tsp",
+      "id": 82
+    },
+    {
+      "ingredientId": 191,
+      "recipeCardId": 9,
+      "quantity": "2",
+      "quantityUnit": "cups",
+      "id": 83
+    },
+    {
+      "ingredientId": 25,
+      "recipeCardId": 9,
+      "quantity": "1/4",
+      "quantityUnit": "cup",
+      "id": 84
+    },
+    {
+      "ingredientId": 97,
+      "recipeCardId": 9,
+      "quantity": "1",
+      "quantityUnit": "",
+      "id": 85
+    },
+    {
+      "ingredientId": 314,
+      "recipeCardId": 10,
+      "quantity": "1",
+      "quantityUnit": "lb",
+      "id": 86
+    },
+    {
+      "ingredientId": 316,
+      "recipeCardId": 10,
+      "quantity": "1",
+      "quantityUnit": "cup",
+      "id": 87
+    },
+    {
+      "ingredientId": 195,
+      "recipeCardId": 10,
+      "quantity": "2 1/2",
+      "quantityUnit": "cups",
+      "id": 88
+    },
+    {
+      "ingredientId": 84,
+      "recipeCardId": 10,
+      "quantity": "1/2",
+      "quantityUnit": "cup",
+      "id": 89
+    },
+    {
+      "ingredientId": 317,
+      "recipeCardId": 10,
+      "quantity": "1/2",
+      "quantityUnit": "cup",
+      "id": 90
+    },
+    {
+      "ingredientId": 318,
+      "recipeCardId": 10,
+      "quantity": "1/2",
+      "quantityUnit": "cup",
+      "id": 91
+    },
+    {
+      "ingredientId": 319,
+      "recipeCardId": 10,
+      "quantity": "1/2",
+      "quantityUnit": "cup",
+      "id": 92
+    },
+    {
+      "ingredientId": 21,
+      "recipeCardId": 10,
+      "quantity": "1/4",
+      "quantityUnit": "cup",
+      "id": 93
+    },
+    {
+      "ingredientId": 153,
+      "recipeCardId": 11,
+      "quantity": "1",
+      "quantityUnit": "Tbsp",
+      "id": 95
+    },
+    {
+      "ingredientId": 41,
+      "recipeCardId": 11,
+      "quantity": "1/2",
+      "quantityUnit": "tsp",
+      "id": 96
+    },
+    {
+      "ingredientId": 40,
+      "recipeCardId": 11,
+      "quantity": "1/2",
+      "quantityUnit": "tsp",
+      "id": 97
+    },
+    {
+      "ingredientId": 320,
+      "recipeCardId": 11,
+      "quantity": "4",
+      "quantityUnit": "cups",
+      "id": 98
+    },
+    {
+      "ingredientId": 65,
+      "recipeCardId": 11,
+      "quantity": "1/2",
+      "quantityUnit": "",
+      "id": 99
+    },
+    {
+      "ingredientId": 321,
+      "recipeCardId": 11,
+      "quantity": "1/4",
+      "quantityUnit": "cup",
+      "id": 100
+    },
+    {
+      "ingredientId": 322,
+      "recipeCardId": 11,
+      "quantity": "2",
+      "quantityUnit": "Tbsp",
+      "id": 101
+    },
+    {
+      "ingredientId": 323,
+      "recipeCardId": 11,
+      "quantity": "1/3",
+      "quantityUnit": "cup",
+      "id": 102
+    },
+    {
+      "ingredientId": 270,
+      "recipeCardId": 11,
+      "quantity": "2",
+      "quantityUnit": "lb",
+      "id": 103
     }
   ],
   "categoriesOfRecipes": [
@@ -2061,6 +2432,91 @@
       "recipeCardId": 6,
       "categoryId": 1,
       "id": 35
+    },
+    {
+      "recipeCardId": 8,
+      "categoryId": 21,
+      "id": 36
+    },
+    {
+      "recipeCardId": 8,
+      "categoryId": 17,
+      "id": 37
+    },
+    {
+      "recipeCardId": 8,
+      "categoryId": 30,
+      "id": 38
+    },
+    {
+      "recipeCardId": 8,
+      "categoryId": 47,
+      "id": 39
+    },
+    {
+      "recipeCardId": 8,
+      "categoryId": 123,
+      "id": 40
+    },
+    {
+      "recipeCardId": 9,
+      "categoryId": 21,
+      "id": 41
+    },
+    {
+      "recipeCardId": 9,
+      "categoryId": 119,
+      "id": 42
+    },
+    {
+      "recipeCardId": 10,
+      "categoryId": 1,
+      "id": 43
+    },
+    {
+      "recipeCardId": 10,
+      "categoryId": 21,
+      "id": 44
+    },
+    {
+      "recipeCardId": 10,
+      "categoryId": 135,
+      "id": 45
+    },
+    {
+      "recipeCardId": 10,
+      "categoryId": 129,
+      "id": 46
+    },
+    {
+      "recipeCardId": 10,
+      "categoryId": 82,
+      "id": 47
+    },
+    {
+      "recipeCardId": 10,
+      "categoryId": 47,
+      "id": 48
+    },
+    {
+      "recipeCardId": 11,
+      "categoryId": 79,
+      "id": 49
+    },
+    {
+      "recipeCardId": 11,
+      "categoryId": 127,
+      "id": 50
+    },
+    {
+      "recipeCardId": 11,
+      "categoryId": 143,
+      "id": 51
+    },
+    {
+      "recipeCardId": 11,
+      "categoryId": 8,
+      "id": 52
     }
   ],
   "favorites": [
@@ -2116,13 +2572,28 @@
     },
     {
       "userId": 4,
-      "recipeCardId": 5,
-      "id": 17
+      "recipeCardId": 3,
+      "id": 18
+    },
+    {
+      "userId": 6,
+      "recipeCardId": 10,
+      "id": 20
+    },
+    {
+      "userId": 6,
+      "recipeCardId": 7,
+      "id": 21
+    },
+    {
+      "userId": 6,
+      "recipeCardId": 4,
+      "id": 22
     },
     {
       "userId": 4,
-      "recipeCardId": 3,
-      "id": 18
+      "recipeCardId": 5,
+      "id": 23
     }
   ],
   "comments": [
@@ -2825,5 +3296,86 @@
       "categoryType": "cooking method"
     }
   ],
-  "follows": []
+  "follows": [
+    {
+      "userId": 5,
+      "whoIsFollowed": 4,
+      "id": 4
+    },
+    {
+      "userId": 4,
+      "whoIsFollowed": 2,
+      "id": 22
+    },
+    {
+      "userId": 8,
+      "whoIsFollowed": 2,
+      "id": 24
+    },
+    {
+      "userId": 7,
+      "whoIsFollowed": 4,
+      "id": 25
+    },
+    {
+      "userId": 7,
+      "whoIsFollowed": 2,
+      "id": 26
+    },
+    {
+      "userId": 7,
+      "whoIsFollowed": 5,
+      "id": 27
+    },
+    {
+      "userId": 7,
+      "whoIsFollowed": 1,
+      "id": 28
+    },
+    {
+      "userId": 6,
+      "whoIsFollowed": 3,
+      "id": 29
+    },
+    {
+      "userId": 6,
+      "whoIsFollowed": 5,
+      "id": 30
+    },
+    {
+      "userId": 6,
+      "whoIsFollowed": 4,
+      "id": 31
+    },
+    {
+      "userId": 6,
+      "whoIsFollowed": 2,
+      "id": 32
+    },
+    {
+      "userId": 4,
+      "whoIsFollowed": 7,
+      "id": 34
+    },
+    {
+      "userId": 8,
+      "whoIsFollowed": 4,
+      "id": 36
+    },
+    {
+      "userId": 4,
+      "whoIsFollowed": 8,
+      "id": 37
+    },
+    {
+      "userId": 4,
+      "whoIsFollowed": 5,
+      "id": 40
+    },
+    {
+      "userId": 4,
+      "whoIsFollowed": 3,
+      "id": 41
+    }
+  ]
 }
